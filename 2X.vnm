@@ -1,0 +1,5 @@
+// 2X = Z
+LOD X
+ADD X
+STO Z
+HLT

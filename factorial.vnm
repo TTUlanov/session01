@@ -1,0 +1,13 @@
+// X! -> Z
+LOD #1
+STO Z
+LOD X
+JMZ 12
+LOD Z
+MUL X
+STO Z
+LOD X
+SUB #1
+STO X
+JMP 3
+HLT
